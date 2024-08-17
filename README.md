@@ -21,7 +21,7 @@ The Enhanced Travel Management System for Nepal is a comprehensive web-based app
 
 1. Clone the repository:
     
-    git clone https://github.com/yourusername/enhanced-travel-management-system.git
+    git clone https://github.com/sauravsubedi1128/travelmanagementsystem.git
     
 
 2. Navigate to the project directory:
